@@ -1,0 +1,8 @@
+{
+  "name": "testYarnLink",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:DenianFossatti/testYarnLink.git",
+  "author": "Denian Camilotti Fossatti <denian_fossatti@hotmail.com>",
+  "license": "MIT"
+}
